@@ -3,5 +3,4 @@ data
 FirefoxSetup.png
 Project.ipynb
 README.md
-test2.txt
 test.txt
