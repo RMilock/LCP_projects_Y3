@@ -1,0 +1,152 @@
+city,lat,lng,country,iso2,admin_name,capital,population,population_proper
+Rome,41.8931,12.4828,Italy,IT,Lazio,primary,2872800,2872800
+Milan,45.4669,9.1900,Italy,IT,Lombardy,admin,1351562,1351562
+Naples,40.8333,14.2500,Italy,IT,Campania,admin,972212,972212
+Turin,45.0667,7.7000,Italy,IT,Piedmont,admin,870952,870952
+Palermo,38.1157,13.3613,Italy,IT,Sicilia,admin,674435,674435
+Genoa,44.4072,8.9340,Italy,IT,Liguria,admin,580097,580097
+Bologna,44.4939,11.3428,Italy,IT,Emilia-Romagna,admin,388367,388367
+Florence,43.7714,11.2542,Italy,IT,Tuscany,admin,382258,382258
+Bari,41.1253,16.8667,Italy,IT,Puglia,admin,325183,325183
+Catania,37.5027,15.0873,Italy,IT,Sicilia,minor,311584,311584
+Cagliari,39.2224,9.1040,Italy,IT,Sardegna,admin,291511,164249
+Venice,45.4397,12.3319,Italy,IT,Veneto,admin,261905,261905
+Verona,45.4386,10.9928,Italy,IT,Veneto,minor,252520,252520
+Messina,38.1833,15.5500,Italy,IT,Sicilia,minor,236962,236962
+Padova,45.4064,11.8778,Italy,IT,Veneto,minor,211560,211560
+Trieste,45.6361,13.8042,Italy,IT,Friuli-Venezia Giulia,admin,204338,204338
+Taranto,40.4181,17.2408,Italy,IT,Puglia,minor,198283,198283
+Brescia,45.5389,10.2203,Italy,IT,Lombardy,minor,197008,197008
+Parma,44.8015,10.3280,Italy,IT,Emilia-Romagna,minor,194417,194417
+Prato,43.8808,11.0966,Italy,IT,Tuscany,minor,191749,191749
+Modena,44.6458,10.9257,Italy,IT,Emilia-Romagna,minor,184727,184727
+Reggio di Calabria,38.1144,15.6500,Italy,IT,Calabria,minor,182703,182703
+Reggio Emilia,44.7000,10.6333,Italy,IT,Emilia-Romagna,minor,170996,170996
+Perugia,43.1121,12.3888,Italy,IT,Umbria,admin,165683,165683
+Ravenna,44.4178,12.1994,Italy,IT,Emilia-Romagna,minor,159162,159162
+Livorno,43.5500,10.3167,Italy,IT,Tuscany,minor,159020,159020
+Foggia,41.4584,15.5519,Italy,IT,Puglia,minor,151975,151975
+Rimini,44.0594,12.5683,Italy,IT,Emilia-Romagna,minor,149403,149403
+Salerno,40.6806,14.7597,Italy,IT,Campania,minor,135066,135066
+Ferrara,44.8353,11.6199,Italy,IT,Emilia-Romagna,minor,132009,132009
+Latina,41.4676,12.9037,Italy,IT,Lazio,minor,126181,126181
+Giugliano in Campania,40.9319,14.1956,Italy,IT,Campania,,124361,124361
+Monza,45.5836,9.2736,Italy,IT,Lombardy,minor,122728,122728
+Siracusa,37.0692,15.2875,Italy,IT,Sicilia,minor,121171,121171
+Pescara,42.4643,14.2142,Italy,IT,Abruzzo,minor,120286,120286
+Bergamo,45.6950,9.6700,Italy,IT,Lombardy,minor,119806,119806
+Forlì,44.2225,12.0408,Italy,IT,Emilia-Romagna,minor,117859,117859
+Trento,46.0667,11.1167,Italy,IT,Trentino-Alto Adige,admin,117185,117185
+Sassari,40.7267,8.5592,Italy,IT,Sardegna,minor,116641,116641
+Vicenza,45.5500,11.5500,Italy,IT,Veneto,minor,112408,112408
+Terni,42.5667,12.6500,Italy,IT,Umbria,minor,111189,111189
+Barletta,41.3200,16.2700,Italy,IT,Puglia,minor,107830,92094
+Bolzano,46.5000,11.3500,Italy,IT,Trentino-Alto Adige,minor,107317,107317
+Novara,45.4500,8.6167,Italy,IT,Piedmont,minor,104284,104284
+Piacenza,45.0500,9.7000,Italy,IT,Emilia-Romagna,minor,103082,103082
+Ancona,43.6167,13.5167,Italy,IT,Marche,admin,100721,100721
+Andria,41.2317,16.3083,Italy,IT,Puglia,minor,100365,100365
+Udine,46.0667,13.2333,Italy,IT,Friuli-Venezia Giulia,minor,99341,99341
+Lecce,40.3520,18.1691,Italy,IT,Puglia,minor,94892,94892
+Arezzo,43.4617,11.8750,Italy,IT,Tuscany,minor,91589,73637
+Catanzaro,38.9100,16.5875,Italy,IT,Calabria,admin,90240,90240
+Eraclea,45.6381,12.6583,Italy,IT,Veneto,,90000,90000
+Pisa,43.7167,10.4000,Italy,IT,Tuscany,minor,89745,89745
+Brindisi,40.6383,17.9458,Italy,IT,Puglia,minor,87141,87141
+Como,45.8103,9.0861,Italy,IT,Lombardy,minor,84378,84378
+Treviso,45.6722,12.2422,Italy,IT,Veneto,minor,83950,83950
+Busto Arsizio,45.6120,8.8518,Italy,IT,Lombardy,,83314,83314
+Varese,45.8167,8.8333,Italy,IT,Lombardy,minor,80629,80629
+Marsala,37.8054,12.4387,Italy,IT,Sicilia,,77784,43179
+Asti,44.9000,8.2069,Italy,IT,Piedmont,minor,76173,76173
+Caserta,41.0667,14.3333,Italy,IT,Campania,minor,75561,75561
+Ragusa,36.9300,14.7300,Italy,IT,Sicilia,minor,68956,65766
+L’Aquila,42.3504,13.3900,Italy,IT,Abruzzo,admin,68503,55900
+Potenza,40.6333,15.8000,Italy,IT,Basilicata,admin,67211,67211
+Castellammare di Stabia,40.7000,14.4833,Italy,IT,Campania,,66164,66164
+Benevento,41.1256,14.7811,Italy,IT,Campania,minor,61791,56769
+Civitavecchia,42.1004,11.8000,Italy,IT,Lazio,,61316,50032
+Savona,44.3080,8.4810,Italy,IT,Liguria,minor,61057,61057
+Crotone,39.0833,17.1233,Italy,IT,Calabria,minor,60010,58617
+Molfetta,41.2000,16.6000,Italy,IT,Puglia,,59470,59470
+Agrigento,37.3111,13.5765,Italy,IT,Sicilia,minor,59329,59329
+Siena,43.3183,11.3314,Italy,IT,Tuscany,minor,53772,53772
+Campobasso,41.5630,14.6560,Italy,IT,Molise,admin,50762,50762
+Olbia,40.9143,9.5151,Italy,IT,Sardegna,minor,45366,43316
+Biella,45.5664,8.0533,Italy,IT,Piedmont,minor,44616,44616
+Macerata,43.3003,13.4533,Italy,IT,Marche,minor,42209,42209
+Gorizia,45.9352,13.6193,Italy,IT,Friuli-Venezia Giulia,minor,34411,34411
+Aosta,45.7370,7.3150,Italy,IT,Valle d’Aosta,admin,34062,34062
+Vibo Valentia,38.6666,16.1000,Italy,IT,Calabria,minor,33957,30379
+Ventimiglia,43.7903,7.6083,Italy,IT,Liguria,,24065,24065
+Narni,42.5167,12.5167,Italy,IT,Umbria,,19543,19543
+Pozzallo,36.7303,14.8467,Italy,IT,Sicilia,,19466,19466
+San Vito dei Normanni,40.6556,17.7036,Italy,IT,Puglia,,19095,19095
+Urbino,43.7252,12.6372,Italy,IT,Marche,,14558,14558
+Priverno,41.4667,13.1833,Italy,IT,Lazio,,14365,14365
+Múggia,45.6000,13.7667,Italy,IT,Friuli-Venezia Giulia,,13111,13111
+Loreto,43.4403,13.6074,Italy,IT,Marche,,12810,12810
+Amelia,42.5535,12.4168,Italy,IT,Umbria,,11828,11828
+Avigliano,40.7333,15.7167,Italy,IT,Basilicata,,11350,11350
+Strongoli,39.2667,17.0667,Italy,IT,Calabria,,6518,6518
+San Dorligo della Valle,45.6225,13.8578,Italy,IT,Friuli-Venezia Giulia,,5754,5754
+Montecastrilli,42.6500,12.4833,Italy,IT,Umbria,,5037,5037
+San Gemini,42.6167,12.5500,Italy,IT,Umbria,,4985,4985
+Stroncone,42.5000,12.6667,Italy,IT,Umbria,,4814,4814
+Acquasparta,42.6833,12.5500,Italy,IT,Umbria,,4676,4676
+Foglianise,41.1601,14.6718,Italy,IT,Campania,,3289,3289
+Castel Viscardo,42.7553,12.0017,Italy,IT,Umbria,,2876,2876
+Fabro,42.8667,12.0167,Italy,IT,Umbria,,2828,2828
+Courmayeur,45.7833,6.9667,Italy,IT,Valle d’Aosta,,2798,2798
+Arrone,42.5837,12.7680,Italy,IT,Umbria,,2743,2743
+Baschi,42.6667,12.2167,Italy,IT,Umbria,,2682,2682
+Avigliano,42.6500,12.4333,Italy,IT,Umbria,,2509,2509
+Leonessa,42.5686,12.9600,Italy,IT,Lazio,,2349,2349
+Ischia di Castro,42.5450,11.7569,Italy,IT,Lazio,,2285,2285
+San Venanzo,42.8667,12.2667,Italy,IT,Umbria,,2192,2192
+Castel Giorgio,42.7000,11.9833,Italy,IT,Umbria,,2090,2090
+Attigliano,42.5167,12.3000,Italy,IT,Lazio,,1991,1991
+Porano,42.6833,12.1000,Italy,IT,Umbria,,1982,1982
+Lecco,45.8500,9.3833,Italy,IT,Lombardy,minor,,
+Cosenza,39.3000,16.2500,Italy,IT,Calabria,minor,,
+Avellino,40.9000,14.7833,Italy,IT,Campania,minor,,
+La Spezia,44.1167,9.8333,Italy,IT,Liguria,minor,,
+Pordenone,45.9639,12.6575,Italy,IT,Friuli-Venezia Giulia,minor,,
+Verbania,45.9333,8.5333,Italy,IT,Piedmont,minor,,
+Lodi,45.3167,9.5000,Italy,IT,Lombardy,minor,,
+Sondrio,46.1667,9.8667,Italy,IT,Lombardy,minor,,
+Frosinone,41.6333,13.3167,Italy,IT,Lazio,minor,,
+Cremona,45.1167,10.0333,Italy,IT,Lombardy,minor,,
+Pavia,45.1667,9.1667,Italy,IT,Lombardy,minor,,
+Chieti,42.3500,14.1667,Italy,IT,Abruzzo,minor,,
+Mantova,45.1500,10.8000,Italy,IT,Lombardy,minor,,
+Pesaro,43.9000,12.9167,Italy,IT,Marche,minor,,
+Massa,44.0167,10.1500,Italy,IT,Tuscany,minor,,
+Vercelli,45.3167,8.4167,Italy,IT,Piedmont,minor,,
+Trani,41.2833,16.4167,Italy,IT,Puglia,minor,,
+Lucca,43.8333,10.4833,Italy,IT,Tuscany,minor,,
+Cuneo,44.3833,7.5333,Italy,IT,Piedmont,minor,,
+Rovigo,45.0667,11.7833,Italy,IT,Veneto,minor,,
+Alessandria,44.9000,8.6167,Italy,IT,Piedmont,minor,,
+Pistoia,43.9167,10.9000,Italy,IT,Tuscany,minor,,
+Oristano,39.9031,8.5919,Italy,IT,Sardegna,minor,,
+Teramo,42.6500,13.7000,Italy,IT,Abruzzo,minor,,
+Ascoli Piceno,42.8500,13.5667,Italy,IT,Marche,minor,,
+Fermo,43.1500,13.7167,Italy,IT,Marche,minor,,
+Tortolì,39.9256,9.6572,Italy,IT,Sardegna,minor,,
+Belluno,46.1450,12.2214,Italy,IT,Veneto,minor,,
+Rieti,42.4000,12.8500,Italy,IT,Lazio,minor,,
+Carbonia,39.1672,8.5222,Italy,IT,Sardegna,minor,,
+Nuoro,40.3167,9.3500,Italy,IT,Sardegna,minor,,
+Grosseto,42.7667,11.1333,Italy,IT,Tuscany,minor,,
+Viterbo,42.4167,12.1000,Italy,IT,Lazio,minor,,
+Matera,40.6667,16.6000,Italy,IT,Basilicata,minor,,
+Caltanissetta,37.4833,14.0667,Italy,IT,Sicilia,minor,,
+Iglesias,39.3114,8.5350,Italy,IT,Sardegna,minor,,
+Lanusei,39.8758,9.5417,Italy,IT,Sardegna,minor,,
+Sanluri,39.5611,8.8994,Italy,IT,Sardegna,minor,,
+Enna,37.5667,14.2667,Italy,IT,Sicilia,minor,,
+Villacidro,39.4578,8.7406,Italy,IT,Sardegna,minor,,
+Tempio Pausania,40.9000,9.1000,Italy,IT,Sardegna,minor,,
+Imperia,43.8833,8.0500,Italy,IT,Liguria,minor,,
+Trapani,38.0167,12.4833,Italy,IT,Sicilia,minor,,
