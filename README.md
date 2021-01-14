@@ -1,3 +1,6 @@
+my DeepNote file: https://deepnote.com/project/f7269b02-3c6c-4f28-9c2b-007cfee97900
+
+
 # Final Projects for Laboratory of Computational Physics
 
 In each of the branches of this repo you find all the necessary to complete your final project.
