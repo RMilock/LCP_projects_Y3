@@ -1,6 +1,6 @@
-my DeepNote file: 
-Part6 from Sab: https://deepnote.com/project/f7269b02-3c6c-4f28-9c2b-007cfee97900
-Part6 form Ave: https://deepnote.com/project/f7269b02-3c6c-4f28-9c2b-007cfee97900
+DeepNote Proj Link https://deepnote.com/project/f7269b02-3c6c-4f28-9c2b-007cfee97900
+
+The additional parts of Part 6 are in /Project
 
 
 # Final Projects for Laboratory of Computational Physics
