@@ -1,4 +1,6 @@
-my DeepNote file: https://deepnote.com/project/f7269b02-3c6c-4f28-9c2b-007cfee97900
+my DeepNote file: 
+Part6 from Sab: https://deepnote.com/project/f7269b02-3c6c-4f28-9c2b-007cfee97900
+Part6 form Ave: https://deepnote.com/project/f7269b02-3c6c-4f28-9c2b-007cfee97900
 
 
 # Final Projects for Laboratory of Computational Physics
